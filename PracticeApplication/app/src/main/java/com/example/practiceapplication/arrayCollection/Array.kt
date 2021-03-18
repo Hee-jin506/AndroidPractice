@@ -20,6 +20,8 @@ class Array {
 
     var intArray = IntArray(10)
     // intArray[10] = 100 // ArrayIndexOutOfBoundsException
-    
+
+    var value0 = students[0]
+    var value1 = students.get(1)
   }
 }
